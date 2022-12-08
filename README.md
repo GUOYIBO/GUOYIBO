@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+------
 ### Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23316192.svg?style=for-the-badge&logo=python&logoColor=white)
 
+-------
 ### My Projects
 [AirGnG - airbnb clone](http://cloned-abnb.herokuapp.com/)  
 [Discordia - Discord clone](https://discordia-cgh.herokuapp.com/)  
