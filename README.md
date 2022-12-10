@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Yibo.   I'm passionate about building full stack web applications and solving technical issues.
+### Hi there 👋 My name is Yibo.   I'm passionate about building full stack web applications and solving technical problems.
 
 <!--
 **GUOYIBO/GUOYIBO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
