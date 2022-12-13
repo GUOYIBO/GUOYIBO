@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 -------
 ### My Projects
-[AirGnG - airbnb clone](http://cloned-abnb.herokuapp.com/)  
 [Discordia - Discord clone](https://discordia-cgh.herokuapp.com/)  
 [MyPantryfridge](https://mypantryfridge.herokuapp.com/)
 
